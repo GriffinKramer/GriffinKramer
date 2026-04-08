@@ -3,8 +3,6 @@
 **Bioinformatics researcher** building NGS analysis pipelines across RNA-seq, ChIP-seq, Hi-C, and CRISPR genomics.  
 MSc Molecular Biosciences (Bioinformatics) · University of Bath · US & UK citizen based in the SF Bay Area.
 
----
-
 ## About Me
 
 I work at the intersection of computational biology and genomics, taking raw sequencing data and building reproducible pipelines that extract biological meaning from it. My background spans academic research labs globally, with experience across a wide range of NGS assay types and analytical frameworks.
@@ -13,7 +11,6 @@ Currently finishing my MSc at Bath, where I've been analyzing Hi-C data to map 3
 
 Before that, I spent three years as an undergraduate researcher at UCSB's College of Creative Studies, a highly selective, research-intensive honors college, where I built CRISPR screen analysis pipelines and engineered MOTREC, a ChIP-seq pipeline for mapping CRISPR off-target binding events.
 
----
 
 ## Featured Projects
 
@@ -29,7 +26,6 @@ Python toolkit for CRISPRi screen processing, MAGeCK analysis, CRISPR off-target
 Full R analysis pipeline for a study of transcriptional rewiring in *Pseudomonas fluorescens*. Covers DESeq2 differential expression, FGSEA pathway enrichment, Spearman correlation, UpSet plots, and WGS variant calling. Data available on SRA: PRJNA992893.  
 `R` `DESeq2` `fgsea` `ggplot2` `bcftools` `minimap2`
 
----
 
 ## Skills
 
