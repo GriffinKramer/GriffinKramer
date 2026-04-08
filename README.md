@@ -34,7 +34,7 @@ Full R analysis pipeline for a study of transcriptional rewiring in *Pseudomonas
 ## Skills
 
 **Languages:** Python · R · Bash · Java · C  
-**NGS Tools:** Bowtie2 · STAR · SAMtools · MACS2/3 · MAGeCK-iNC · GATK · Cell Ranger · minimap2  
+**NGS Tools:** Bowtie2 · STAR · SAMtools · MACS2/3 · MAGeCK-iNC · minimap2  
 **Assays:** Bulk RNA-seq · scRNA-seq · ChIP-seq · Hi-C · CRISPRi screens · Variant calling  
 **Analysis:** DESeq2 · fgsea · GSEA · Multi-omics integration · 3D genome organization · ML methods  
 **Environment:** Unix/Linux · HPC · Git · Nextflow · Reproducible pipeline development  
