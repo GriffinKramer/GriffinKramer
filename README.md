@@ -18,13 +18,13 @@ Before that, I spent three years as an undergraduate researcher at UCSB's Colleg
 Python CLI tool for annotating ChIP-seq peaks with nearest genomic features, phenotype scores, and GO terms. Built to map CRISPR on/off-target binding events in transcription regulation experiments.
 <br> `Python` `ChIP-seq` `MACS3` `Gene Ontology` `CRISPRi`
 
-### [NGS Variant Calling Pipeline](https://github.com/GriffinKramer/RP1B)
-Nextflow pipeline supporting two modes: simulate mutations + reads from a reference genome, or run real paired-end reads through alignment, dual variant calling (bcftools + Snippy), and VCF benchmarking.  
-`Nextflow` `Python` `minimap2` `bcftools` `Snippy` `samtools`
-
 ### [σ⁵⁴ Regulatory Rewiring Analysis](https://github.com/GriffinKramer/Regulatory-Rewiring)
 Full R analysis pipeline for a study of transcriptional rewiring in *Pseudomonas fluorescens*. Covers DESeq2 differential expression, FGSEA pathway enrichment, Spearman correlation, UpSet plots, and WGS variant calling. Data available on SRA: PRJNA992893.  
 `R` `DESeq2` `fgsea` `ggplot2` `bcftools` `minimap2`
+
+### [NGS Variant Calling Pipeline](https://github.com/GriffinKramer/RP1B)
+Nextflow pipeline supporting two modes: simulate mutations + reads from a reference genome, or run real paired-end reads through alignment, dual variant calling (bcftools + Snippy), and VCF benchmarking.  
+`Nextflow` `Python` `minimap2` `bcftools` `Snippy` `samtools`
 
 ### [CRISPR Screen & Genomics Utilities](https://github.com/GriffinKramer/BFM)
 Python toolkit for CRISPRi screen processing, MAGeCK analysis, CRISPR off-target mapping, and proteomics integration.
