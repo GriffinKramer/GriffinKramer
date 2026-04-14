@@ -30,6 +30,9 @@ Full R analysis pipeline for a study of transcriptional rewiring in *Pseudomonas
 Python toolkit for CRISPRi screen processing, MAGeCK analysis, CRISPR off-target mapping, and proteomics integration.
 <br> `Python` `pandas` `MAGeCK` `CRISPRi` `Bowtie2`
 
+### [Burrows-Wheeler Transform](https://github.com/GriffinKramer/Burrows-Wheeler-Transform)
+From-scratch Python implementation of the BWT, inverse BWT, and FM-index pattern matching using a custom Wavelet Tree class. The algorithm underpins widely-used sequence aligners including Bowtie2 and BWA. <br> `Python` `JupyterLab` `Object-Oriented-Programming` `Algorithms` `Sequence-Alignment`
+
 ## Skills
 
 **Languages:** Python · R · Bash · Java · C  
