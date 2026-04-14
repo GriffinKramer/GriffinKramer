@@ -16,7 +16,7 @@ Before that, I spent three years as an undergraduate researcher at UCSB's Colleg
 
 ### [MOTREC](https://github.com/GriffinKramer/MOTREC)
 Python CLI tool for annotating ChIP-seq peaks with nearest genomic features, phenotype scores, and GO terms. Built to map CRISPR on/off-target binding events in transcription regulation experiments.
-\n `Python` `ChIP-seq` `MACS3` `Gene Ontology` `CRISPRi`
+<br> `Python` `ChIP-seq` `MACS3` `Gene Ontology` `CRISPRi`
 
 ### [NGS Variant Calling Pipeline](https://github.com/GriffinKramer/RP1B)
 Nextflow pipeline supporting two modes: simulate mutations + reads from a reference genome, or run real paired-end reads through alignment, dual variant calling (bcftools + Snippy), and VCF benchmarking.  
