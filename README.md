@@ -28,7 +28,7 @@ Full R analysis pipeline for a study of transcriptional rewiring in *Pseudomonas
 
 ### [CRISPR Screen & Genomics Utilities](https://github.com/GriffinKramer/BFM)
 Python toolkit for CRISPRi screen processing, MAGeCK analysis, CRISPR off-target mapping, and proteomics integration.
-`Python` `pandas` `MAGeCK` `CRISPRi` `Bowtie2`
+<br> `Python` `pandas` `MAGeCK` `CRISPRi` `Bowtie2`
 
 ## Skills
 
