@@ -22,6 +22,10 @@ Python CLI tool for annotating ChIP-seq peaks with nearest genomic features, phe
 Full R analysis pipeline for a study of transcriptional rewiring in *Pseudomonas fluorescens*. Covers DESeq2 differential expression, FGSEA pathway enrichment, Spearman correlation, UpSet plots, and WGS variant calling. Data available on SRA: PRJNA992893.  
 `R` `DESeq2` `fgsea` `ggplot2` `bcftools` `minimap2`
 
+### [STEC Geographic Source Attribution](https://github.com/GriffinKramer/Microbial-Genomics-ML)
+Machine learning pipeline for predicting country and region of origin of Shiga-toxigenic *E. coli* (STEC) from whole genome sequencing kmer data. Evaluates Random Forest, GBDT, and LinearSVC across preprocessing parameter conditions including UK class capping, chi-squared feature selection, and random oversampling. Final models trained on 2014-2018 data and evaluated on a held-out 2019 test set.
+<br> `Python` `scikit-learn` `imbalanced-learn` `Random Forest` `GBDT` `LinearSVC` `WGS`
+
 ### [NGS Variant Calling Pipeline](https://github.com/GriffinKramer/RP1B)
 Nextflow pipeline supporting two modes: simulate mutations + reads from a reference genome, or run real paired-end reads through alignment, dual variant calling (bcftools + Snippy), and VCF benchmarking.  
 `Nextflow` `Python` `minimap2` `bcftools` `Snippy` `samtools`
